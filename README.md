@@ -13,7 +13,16 @@
   <img align="center" alt="kerlo-vscode" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </div>
 
-<div style="display: inlien_block>"><br>
+
+<div style="display: inline_block>"><br>
+ <h3>💻 My workspace</h3>
+<img align="center" alt="kali" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png">
+ <img align="center" alt="win" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/906/906308.png">
+ 
+
+ </div>
+ 
+ <div style="display: inline_block>"><br>
  <h3>Connect With me 😄</h3>
 
  <a href="https://www.linkedin.com/in/kerlon-fernandes"><img align="center" alt="kerlo-linkedin" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>

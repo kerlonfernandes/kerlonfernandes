@@ -25,5 +25,5 @@
  <div style="display: inline_block>"><br>
  <h3>Connect With me 😄</h3>
 
- <a href="https://www.linkedin.com/in/kerlon-fernandes"><img align="center" alt="kerlo-linkedin" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+ <a href="https://www.linkedin.com/in/kerlon-fernandes"><img align="center" alt="kerlo-linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
  </div>

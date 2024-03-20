@@ -23,7 +23,7 @@
 
 <div style="display: inline_block>"><br>
  <h3>💻 My workspace</h3>
-<img align="center" alt="kali" height="65" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png">
+<img align="center" alt="ubuntu" height="65" width="65" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png">
  <img align="center" alt="win" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/906/906308.png">
  
 

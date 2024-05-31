@@ -18,6 +18,8 @@
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div style="display: inline_block>"><br>
  <h3>💻 My workspace</h3>

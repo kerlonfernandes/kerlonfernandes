@@ -26,7 +26,7 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 <p align="center">
  <h3>💻 My workspace</h3>
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
+    <img src="https://skillicons.dev/icons?i=mint" />
 </p>
 
 <p align="center">

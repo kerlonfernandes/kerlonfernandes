@@ -3,8 +3,7 @@
  <img scr="">
  <img src= "https://github-readme-stats.vercel.app/api?username=kerlonfernandes&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonfernandes&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
+</div> 
 
 <p align="center" style="margin: 30px;">
 

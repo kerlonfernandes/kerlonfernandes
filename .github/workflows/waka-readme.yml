@@ -1,4 +1,4 @@
-name: Main_Workflow
+name: Waka Readme
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF BASH SH
           SHOW_TITLE: true

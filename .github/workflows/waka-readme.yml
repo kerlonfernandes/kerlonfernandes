@@ -1,17 +1,23 @@
-name: Waka Readme
-
+name: Main_Workflow
 on:
-  # for manual workflow trigger
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF BASH SH
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          TIME_RANGE: all_time
+          SHOW_MASKED_TIME: false

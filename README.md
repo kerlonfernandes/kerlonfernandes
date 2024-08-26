@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 24 August 2024
+From: 31 May 2024 - To: 25 August 2024
 
-Total Time: 350 hrs 17 mins
+Total Time: 352 hrs 7 mins
 
-Python           175 hrs 45 mins ████████████▒░░░░░░░░░░░░   49.56 %
-PHP              129 hrs 1 min   █████████░░░░░░░░░░░░░░░░   36.38 %
-JavaScript       18 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Lua              7 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Python           175 hrs 45 mins ████████████▒░░░░░░░░░░░░   49.31 %
+PHP              130 hrs 31 mins █████████░░░░░░░░░░░░░░░░   36.62 %
+JavaScript       18 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Lua              7 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 HTML             5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 

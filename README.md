@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 10 October 2024
+From: 31 May 2024 - To: 11 October 2024
 
-Total Time: 575 hrs 4 mins
+Total Time: 581 hrs 21 mins
 
-PHP              261 hrs 16 mins ███████████▒░░░░░░░░░░░░░   45.04 %
-Python           178 hrs 1 min   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-JavaScript       85 hrs 25 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-HTML             11 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-CSS              8 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+PHP              263 hrs 17 mins ███████████▒░░░░░░░░░░░░░   44.89 %
+Python           178 hrs 1 min   ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+JavaScript       89 hrs 16 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+HTML             11 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+CSS              8 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->

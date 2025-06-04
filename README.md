@@ -21,7 +21,7 @@ Total Time: 1,072 hrs 33 mins
 PHP              623 hrs 42 mins ██████████████▒░░░░░░░░░░   57.65 %
 Python           194 hrs 49 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
 JavaScript       161 hrs 44 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Blade Template   17 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other            9 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->

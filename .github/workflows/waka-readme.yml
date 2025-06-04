@@ -1,10 +1,7 @@
 name: Waka Readme
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   update-readme:
@@ -14,7 +11,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
+          SHOW_MORE: true
           IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF Blade "Blade Template" HTML CSS
           SHOW_TITLE: true
           SHOW_TOTAL: true

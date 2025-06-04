@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF Blade HTML CSS
+          IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF BASH SH Blade "Blade Template" HTML CSS
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true

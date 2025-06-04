@@ -12,10 +12,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
           STOP_AT_OTHER: false
-          SHOW_MORE: true
           IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF Blade "Blade Template" HTML CSS
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: false
+          LANG_COUNT: 10

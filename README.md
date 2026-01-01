@@ -14,15 +14,15 @@ I enjoy solving problems through code, exploring new technologies, and improving
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 30 December 2025
+From: 31 May 2024 - To: 31 December 2025
 
-Total Time: 1,466 hrs 47 mins
+Total Time: 1,474 hrs 58 mins
 
-PHP              858 hrs 15 mins ██████████████▒░░░░░░░░░░   57.86 %
-JavaScript       221 hrs 40 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Python           206 hrs 37 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other            16 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Markdown         7 hrs 51 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+PHP              862 hrs 5 mins  ██████████████▒░░░░░░░░░░   57.80 %
+JavaScript       224 hrs 2 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Python           206 hrs 37 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Other            16 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Markdown         8 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Lua              7 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 

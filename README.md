@@ -14,7 +14,7 @@ I enjoy solving problems through code, exploring new technologies, and improving
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 15 February 2026
+From: 31 May 2024 - To: 16 February 2026
 
 Total Time: 1,649 hrs 46 mins
 
